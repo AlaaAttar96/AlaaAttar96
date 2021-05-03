@@ -20,3 +20,6 @@ A growth mindset believes that one’s fundamental abilities can be developed th
 
 
 [Growth](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
+
+
+
