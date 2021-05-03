@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## How you can benefit from a growth mindset.
 
-You can use the [editor on GitHub](https://github.com/AlaaAttar96/AlaaAttar96/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+The concept of a growth mindset is a popular topic lately, and I sometimes say to myself '<Self, you need to embrace the growth mindset. The growth mindset is cool.>'
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## What is a growth mindset?
 
-```markdown
-Syntax highlighted code block
+A growth mindset believes that one’s fundamental abilities can be developed through perseverance and effort; intelligence and talent are simply good starting points. A growth mindset is synonymous with a love of learning.
 
-# Header 1
-## Header 2
-### Header 3
+![GrowthMindest](https://3kllhk1ibq34qk6sp3bhtox1-wpengine.netdna-ssl.com/wp-content/uploads/NewGrowthMindset2.png)
 
-- Bulleted
-- List
+## Perseverance, gumption traps, and maintaining a growth mindset
 
-1. Numbered
-2. List
+1. Challenges
+2. Obstacles
+3. Effort
+4. Criticism
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AlaaAttar96/AlaaAttar96/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[Growth](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
